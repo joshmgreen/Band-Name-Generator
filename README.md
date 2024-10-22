@@ -1,7 +1,7 @@
 # Band-Name-Generator
 Uses EJS Partials and Layouts to generate groovy band name
 
-Run Instrctions:
+Run Instructions:
 1) `npm i` in root
 2) `nodemon index.js`
 
